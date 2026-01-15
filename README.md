@@ -43,7 +43,7 @@ The system is built using a **Star Schema data model**, advanced **DAX measures*
 - Top products analysis
 
 <p align="center">
-  <img src="Screenshots/dashboard.png" alt="PakMart Dashboard" width="900">
+  ![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
 </p>
 
 ### 2️⃣ Trends & YoY Analysis Dashboard
