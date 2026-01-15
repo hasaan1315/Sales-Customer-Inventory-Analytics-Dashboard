@@ -42,9 +42,8 @@ The system is built using a **Star Schema data model**, advanced **DAX measures*
 - Sales by country and category
 - Top products analysis
 
-<p align="center">
   ![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/5a04e676c845b4468c2fac44c65c4da691c293d8/1.png)
-</p>
+
 
 ### 2️⃣ Trends & YoY Analysis Dashboard
 - This Year vs Last Year comparison
@@ -53,11 +52,15 @@ The system is built using a **Star Schema data model**, advanced **DAX measures*
 - Monthly and yearly performance comparison
 - YoY analysis table
 
+![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/7a9b9ed2ce70841f91452f7dcb78f4870d3e8cab/2.png)
+
 ### 3️⃣ Customer & Product Intelligence Dashboard
 - Product hierarchy matrix (Category → Subcategory → Product)
 - Sales, Profit, Quantity by product
 - Distribution analysis
 - Insight summary panel
+
+![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/7a9b9ed2ce70841f91452f7dcb78f4870d3e8cab/3.png)
 
 ### 4️⃣ Inventory & Operations Dashboard
 - Inventory KPIs (Total stock, inventory value, product count)
@@ -65,17 +68,23 @@ The system is built using a **Star Schema data model**, advanced **DAX measures*
 - Stock by category & subcategory
 - Inventory movement analysis (Units In / Units Out)
 
+![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/7a9b9ed2ce70841f91452f7dcb78f4870d3e8cab/4.png)
+
 ### 5️⃣ Product Drillthrough Page
 - Product-level deep analysis
 - Sales trend for selected product
 - Inventory status
 - Profit and stock movement
 
+![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/7a9b9ed2ce70841f91452f7dcb78f4870d3e8cab/5.png)
+
 ### 6️⃣ Customer Drillthrough Page
 - Customer profile analysis
 - Sales, Profit, Orders KPIs
 - Purchase trend over time
 - Product and category breakdown
+
+![image alt](https://github.com/hasaan1315/Sales-Customer-Inventory-Analytics-Dashboard/blob/7a9b9ed2ce70841f91452f7dcb78f4870d3e8cab/6.png)
 
 ---
 
